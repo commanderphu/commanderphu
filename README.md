@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, ich bin Joshua aka CommanderPhu 👋⚡
 
-# Hi, ich bin Joshua aka CommanderPhu 👋⚡
+**Fachinformatiker | Founder @ K.I.T. Solutions | Ex-Twitch Creator**
 
-**Fachinformatiker | Gründer @ K.I.T. Solutions | Ex-Twitch Creator**
+From stage to backend. Building tools instead of streams now.
 
-Von der Bühne ins Backend. Baue jetzt Tools statt Streams.
+## 🚀 Current Projects
 
-## 🚀 Aktuelle Projekte
-
-- **WorkmateOS** – Business-Management-Platform (FastAPI, Vue.js, PostgreSQL)
-- **Workmate Gaming** – Streaming-Automation
-- **K.I.T. Solutions** – IT-Services für Creator & kleine Unternehmen
+- **WorkmateOS** – Business management platform (FastAPI, Vue.js, PostgreSQL)
+- **Workmate Gaming** – Streaming automation
+- **K.I.T. Solutions** – IT services for creators & small businesses
 
 ## 💻 Stack
 
@@ -18,6 +16,6 @@ Von der Bühne ins Backend. Baue jetzt Tools statt Streams.
 
 ## 🏠 Homelab
 
-Drei Server. Benannt nach The Flash Charakteren. Weil Nerds gonna nerd.
+Three servers. Named after The Flash characters. Because nerds gonna nerd.
 
-**Vision:** S.T.A.R. Labs IRL – wo Tech auf Creator-Culture trifft. **Miteinander statt führend.**
+**Vision:** Building my own S.T.A.R. Labs IRL – where tech meets creator culture. **Miteinander statt führend.**
