@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**commanderphu/commanderphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, ich bin Joshua aka CommanderPhu 👋⚡
 
-Here are some ideas to get you started:
+**Fachinformatiker | Gründer @ K.I.T. Solutions | Ex-Twitch Creator**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Von der Bühne ins Backend. Baue jetzt Tools statt Streams.
+
+## 🚀 Aktuelle Projekte
+
+- **WorkmateOS** – Business-Management-Platform (FastAPI, Vue.js, PostgreSQL)
+- **Workmate Gaming** – Streaming-Automation
+- **K.I.T. Solutions** – IT-Services für Creator & kleine Unternehmen
+
+## 💻 Stack
+
+`Python` `FastAPI` `Vue.js` `PostgreSQL` `Docker` `Linux`
+
+## 🏠 Homelab
+
+Drei Server. Benannt nach The Flash Charakteren. Weil Nerds gonna nerd.
+
+**Vision:** S.T.A.R. Labs IRL – wo Tech auf Creator-Culture trifft. **Miteinander statt führend.**
